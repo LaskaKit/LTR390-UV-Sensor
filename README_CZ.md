@@ -19,6 +19,8 @@ Nakonec, není nutné používat pouze naše desky - použít [můžeš téměř
 Napájecí napětí modulu a tedy i čidla je od 1.7V až do 3.6V. Adresa čidla je 0x53.
 Na přední straně najdeš pájecí most, který připojuje osazené pull-up rezistory na I2C sběrnici. 
 
+## Tento modul si můžeš objednat na https://www.laskakit.cz/laskakit-ltr390-uv-senzor/
+
 Podoporovaná knihovna v Arduino IDE
 [https://github.com/levkovigor/LTR390](https://github.com/levkovigor/LTR390)
 [https://github.com/adafruit/Adafruit_LTR390](https://github.com/adafruit/Adafruit_LTR390)
