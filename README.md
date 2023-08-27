@@ -17,6 +17,8 @@ Finally, it is not necessary to use only our eval boards, you can use [common Ar
 The power supply voltage of the module and also the sensor is from 1.7V up to 3.6V. The sensor address is 0x53.
 On the front side you will find a solder bridge that connects the mounted pull-up resistors to the I2C bus. 
 
+## You can buy this module on https://www.laskakit.cz/laskakit-ltr390-uv-senzor/
+
 Supported libraries in Arduino IDE
 [https://github.com/levkovigor/LTR390](https://github.com/levkovigor/LTR390)
 [https://github.com/adafruit/Adafruit_LTR390](https://github.com/adafruit/Adafruit_LTR390)
